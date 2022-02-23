@@ -7,8 +7,8 @@ namespace LogicalProgramming
         {
             //Console.WriteLine("Welcome to Logical Programs");
             //Fibonacci.DisplayFibonacci()
-            //Reverse.ReverseTheNumber();
-              PerfectNumber.FindThePerfectNumber();
+              Reverse.ReverseTheNumber();
+            //PerfectNumber.FindThePerfectNumber();
         }
     }
 }
